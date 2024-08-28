@@ -1,0 +1,363 @@
+program1
+
+home.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KGISL</title>
+    <link rel="stylesheet" href="styles.css" >
+</head>
+<body>
+    <header id="header">
+        <nav>
+            <ul>
+                <li><a href="home.html" >HOME</a></li>
+                <li><a href="kgcas.html">KGCAS</a></li>
+                <li><a href="kite.html" >KITE</a></li>
+                <li><a href="kgisl-imm.html" >KGISL-IIM</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    
+    <main>
+        <section class="style1" >
+            <img src="image/kgisl.jpg" >
+            <marquee scrollamount="10"><b>Admission Open for KGISL(Kgcas,kgisl-IIM,kite)</b></marquee>
+            <h1>WELCOME TO KGISL FAMILY</h1>
+            <h3>Dr. Ashok Bakthavathsalam,<br>Founder and Managing Director,<br> KGiSL Group</h3>
+            <P>KG Group of Institutions, the pioneers in industry embedded education, 
+                makes a difference by creating value for all their stakeholders in the industry and academia.</P><br>
+            </section>
+            <section>
+                <h3 style="text-align: center;">Placements Companies</h3>
+                <img src="image/placements.png"  class="center">
+            </section>
+        </main>
+        
+        <footer>
+            <p>&copy; 2024 KGISL. All right reserved.</p>
+    </footer>
+    
+</body>
+</html>
+
+kgcas.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KGISL</title>
+    <link rel="stylesheet" href="styles.css" >
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="home.html" >HOME</a></li>
+                <li><a href="kgcas.html">KGCAS</a></li>
+                <li><a href="kite.html" >KITE</a></li>
+                <li><a href="kgisl-imm.html" >KGISL-IIM</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="style1" >
+            <img src="image/kgcas.jpg"  height="50">
+            <h1>WELCOME TO KG COLLEGE OF ARTS AND SCIENCE</h1>
+            <h3>KG College of Arts and Science (KGCAS) was started in the year 2005 with the intent to provide quality education <br>
+                at the undergraduate level and post-graduate level, focusing primarily on meeting the talent requirements of the <br>
+                domestic and global IT and IT-enabled service providers.The College is an ISO 9001:2008 certified institution, <br>
+                accredited by NAAC in the academic year 2016-2017.</h3>
+            <P>KG Group of Institutions, the pioneers in industry embedded education, 
+               makes a difference by creating value for all their stakeholders in the industry and academia.</P><br>
+               <b>Conduct :123456789<br>Mail :Kgcas@gmail.com</b>
+        </section>
+        <section>
+            <h3 style="text-align: center;">Placements Companies</h3>
+            <img src="image/placements.png"  class="center">
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 KGISL. All right reserved.</p>
+    </footer>
+    
+</body>
+</html>
+
+kgisl-iim
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KGISL</title>
+    <link rel="stylesheet" href="styles.css" >
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="home.html" >HOME</a></li>
+                <li><a href="kgcas.html">KGCAS</a></li>
+                <li><a href="kite.html" >KITE</a></li>
+                <li><a href="kgisl-imm.html" >KGISL-IIM</a></li>
+              </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="style1" >
+            <img src="image/kgisl-imm.jpg" >
+            <h1>Welcome to KGiSL Institute of Information Management!</h1>
+            <h3>Established in the year 2002, the KGiSL Institute of Information Management (KGiSL-IIM)<BR>
+                 enjoys the industry- sponsored institute status sharing the same ambiance and facilities of the sponsors,<br>
+                  KGiSL, Coimbatore. Established in the year 2002, the KGiSL Institute of Information</P><br>
+                  <b>Conduct :123456789<br>Mail :Kgisl-iim@gmail.com</b>
+        </section>
+        <section>
+            <h3 style="text-align: center;">Placements Companies</h3>
+            <img src="image/placements.png"  class="center">
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 KGISL. All right reserved.</p>
+    </footer>
+    
+</body>
+</html>
+
+kite.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KGISL</title>
+    <link rel="stylesheet" href="styles.css" >
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="home.html" >HOME</a></li>
+                <li><a href="kgcas.html">KGCAS</a></li>
+                <li><a href="kite.html" >KITE</a></li>
+                <li><a href="kgisl-imm.html" >KGISL-IIM</a></li>
+             </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="style1" >
+            <img src="image/kite.jpg" >
+            <h1>Welcome to KGiSL Institute of Technology </h1>
+            <h3>Don't be afraid to fail. Don't waste energy trying to cover up failure. Learn from<BR>
+                your failures and go on to the next challenge. It's OK to fail. If you're not failing,<BR>
+                you're not growing.,<br> KGiSL Group</h3>
+            <P>KGiSL Institute of Technology was started
+                in the Year 2008</P><br>
+                <b>Conduct :123456789<br>Mail :Kite@gmail.com</b>
+        </section>
+        <section>
+            <h3 style="text-align: center;">Placements Companies</h3>
+            <img src="image/placements.png"  class="center">
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 KGISL. All right reserved.</p>
+    </footer>
+    
+</body>
+</html>
+
+styles.css
+
+body{
+font-family: sans-serif;
+margin: 0;
+padding: 0;
+position: relative;
+
+}
+header{
+    background-color: #004080;
+    color: white;
+    padding: 10px 0;
+}
+nav ul{
+    list-style: none;
+    padding: 0;
+}
+nav ul li{
+    display: inline;
+    margin: 10px;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+.style1{
+    color: rgb(0, 0, 0);
+    padding:  0;
+    text-align: center;
+
+}
+.center{
+    margin-right: auto;
+    margin-left: auto ;
+    display: block;
+    width: 50%;
+}
+
+footer{
+    background-color: #004080;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    bottom: 0;
+}
+
+
+2nd program
+
+world.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contries</title>
+</head>
+<body>
+    <div style="height: 50px; width: 100%; background-color: black;">
+        <h1 style="color: aliceblue; text-align:center;">List Of Contries</h1>
+    </div>
+    <div >
+        <table align="center" >
+            <tr><td><img src="flage/in.webp" width="40" height="30"></td> <td><a href="in.html" >India</a></td></tr>
+            <tr><td><img src="flage/kr.webp" width="40" height="30"></td> <td><a href="sk.html" >South Korea</a></td></tr>
+            <tr><td><img src="flage/lk.webp" width="40" height="30"></td> <td><a href="sl.html" >Sri Lanka</a></td></tr>
+            <tr><td><img src="flage/sg.webp" width="40" height="30"></td> <td><a href="sing.html" >Singapore</a></td></tr>
+            <tr><td><img src="flage/us.webp" width="40" height="30"></td> <td><a href="us.html" >United States</a></td></tr>
+        </table>
+    </div>
+</body>
+</html>
+
+in.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="sty.css" >
+    <title>India</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="world.html">Home</a></li>
+                <li><a href="sl.html" >Sri Lanka</a></li>
+                <li><a href="sing.html" >Singapore</a></li>
+                <li><a href="sk.html" >South Korea</a></li>
+                <li><a href="us.html" >United States</a></li>
+            </ul>
+        </nav>
+    </header>
+    <h1 style="text-align: center;"><b>INDIA</b></h1>
+    <table align="center">
+        <tr><td align="center">This article is about the Republic of India. For other uses, see India (disambiguation).India, officially the Republic of India (ISO: Bhārat Gaṇarājya),[21] is a country in South Asia. It is the seventh-largest country by area; the most populous country with effect from June 2023;[22][23] and from the time of its independence in 1947, the world's most populous democracy.[24][25][26] Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west;[j] China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand, Myanmar, and Indonesia</td></tr>
+        <tr><td align="center" ><h4>India In World Map</h4></td></tr>
+        <tr><td align="center" ><img src="contriespic/indiamap.webp" ></td></tr>
+        <tr><td align="center" ><h3>Tamilar</h3></td></tr>
+        <tr><td align="center">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab, numquam magni! Odio cum inventore voluptatibus asperiores enim? Reiciendis accusamus magnam pariatur, velit aut eveniet natus alias dignissimos? Adipisci, nulla. Corrupti?</td></tr>
+        <tr><td align="center" ><h4>தஞ்சைப் பெருவுடையார் கோயில் & சோழர்</h4></td></tr>
+        <tr><td align="center" ><img src="contriespic/Peruvudaiyar Kovil 1.jpg" height="500px" width="400px"><img src="contriespic/chola.png" height="500px" width="400px"></td></tr>
+        <tr><td align="center" ><h3>Nandri Vanakam</h3></td></tr>    
+        
+    </table>
+
+</body>
+</html>
+
+sty.css
+
+body{
+        font-family: sans-serif;
+        padding: 0;
+        margin: 0;
+    }
+header{
+        background-color: rgb(4, 69, 198);
+        color: white;
+        padding: 10px 0;
+    }
+
+nav ul{
+        list-style: none;
+        padding: 0;
+    }
+
+nav ul li{
+        display: inline;
+        padding: 10px;
+        margin: 10px;
+        
+    }
+
+ nav ul li a{
+        color: aliceblue;
+        text-decoration: none;
+    }
+
+3rd program
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Table with Lists Example</title>
+</head>
+<body>
+    <h2>Table with Lists</h2>
+    <table border="1">
+        <tr>
+            <th>Header 1</th>
+            <th>Header 2</th>
+        </tr>
+        <tr>
+            <td>
+                <ul>
+                    <li>Unordered Item 1</li>
+                    <li>Unordered Item 2</li>
+                    <li>Unordered Item 3</li>
+                </ul>
+            </td>
+            <td>
+                <ol>
+                    <li>Ordered Item 1</li>
+                    <li>Ordered Item 2</li>
+                    <li>Ordered Item 3</li>
+                </ol>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+
+
